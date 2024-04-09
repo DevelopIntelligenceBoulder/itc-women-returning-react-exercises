@@ -2,9 +2,10 @@
 
 ## Exercises
 
-- [01-todo-list-hooks](./01-todo-list-hooks/README.md)
-- [02-context-hook](./02-context-hook/README.md)
-- [03-react-boostrap](./03-react-bootstrap/README.md)
+- [01-context-hook](./01-context-hook/README.md)
+- [02-reducer-hook](./02-reducer-hook/README.md)
+- [03-memo-hook](./03-memo-hook/README.md)
+- [04-react-bootstrap](./04-react-bootstrap/)
 
 ## Additional Resources
 

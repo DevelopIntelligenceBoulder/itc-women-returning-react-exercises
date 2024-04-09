@@ -2,9 +2,11 @@
 
 In this exercise, you will add the React Bootstrap component library to their applications and learn to leverage pre-styled components.
 
+NOTE: There are multiple ways of leveraging Bootstrap component styles in your React application. The `react-bootstrap` package is one convenient way to get started.
+
 ## Instructions
 
-- In your React app's root directory, install the bootstrap and react-bootstrap dependecies using `npm i bootstrap react-bootstrap`.
+- In your React app's root directory, install the bootstrap and react-bootstrap dependencies using `npm i bootstrap react-bootstrap`.
 
 - To verify this step was successful, check your `package.json` file. Both packages should now be listed inside of `dependencies`.
 

@@ -4,6 +4,8 @@
 
 - [01-hooks-counter](./01-hooks-counter/README.md)
 - [02-working-with-forms](./02-working-with-forms/README.md)
+- [03-todo-list-hooks](./03-todo-list-hooks/README.md)
+- [04-effect-hook](./04-effect-hook/README.md)
 
 ## Additional Resources
 
