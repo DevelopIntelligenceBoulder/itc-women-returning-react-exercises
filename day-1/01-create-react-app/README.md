@@ -4,7 +4,7 @@ In this exercise, students will be using the popular create-react-app package to
 
 ## Instructions
 
-- Gerenrate a new react project by running `npx create-react-app <appname>`.
+- Generate a new react project by running `npx create-react-app <appname>`.
 
 - Run `ls` to confirm the the `<appname>` directory has been created.
 
