@@ -9,4 +9,6 @@
 ## Additional Resources
 
 * [https://react.dev/reference/react/hooks](https://react.dev/reference/react/hooks)
+* [https://react.dev/reference/react/useContext](https://react.dev/reference/react/useContext)
+* [https://react.dev/reference/react/useReducer](https://react.dev/reference/react/useReducer)
 * [https://react-bootstrap.netlify.app/docs/getting-started/introduction](https://react-bootstrap.netlify.app/docs/getting-started/introduction)

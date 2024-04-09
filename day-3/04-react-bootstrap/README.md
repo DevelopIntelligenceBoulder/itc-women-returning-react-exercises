@@ -1,6 +1,6 @@
 # Exercise: React Bootstrap
 
-In this exercise, students will add the React Bootstrap component library to their applications and learn to leverage pre-styled components.
+In this exercise, you will add the React Bootstrap component library to their applications and learn to leverage pre-styled components.
 
 ## Instructions
 

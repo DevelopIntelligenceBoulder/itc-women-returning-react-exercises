@@ -9,3 +9,6 @@
 
 * [https://reactjs.org/docs/lists-and-keys.html](https://reactjs.org/docs/lists-and-keys.html)
 * [https://reactjs.org/docs/conditional-rendering.html](https://reactjs.org/docs/conditional-rendering.html)
+* [https://react.dev/reference/react/hooks](https://react.dev/reference/react/hooks)
+* [https://react.dev/reference/react/useState](https://react.dev/reference/react/useState)
+* [https://react.dev/reference/react/useEffect](https://react.dev/reference/react/useEffect)
