@@ -30,7 +30,7 @@ For this exercise, students will need to create a free developer account with th
 - Add a `h1` element with the page title to the page. 
 - Add an `<input>`, `<button>` and an empty `<div>`element to the page. 
 - Create an `input` property in state that defaults to an empty string,  and bind its value to the `<input>` element. 
-- Create a `gifs` propety in state that defaults to an empty array.
+- Create a `gifs` property in state that defaults to an empty array.
 - Create an event handler method to change the value of `input` when the `<input>` element is changed. 
 - Create an event handler method to fetch an array of gifs from `https://api.giphy.com/v1/gifs/search?rating=g&api_key=[YOURAPIKEYHERE]&q=[input]` when the `<button>` element is clicked, and set them into state.
 - In the empty `<div>` method, map over the gif array in state as done for the Home Page. 
